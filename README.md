@@ -80,7 +80,7 @@ Here are some screenshots of the application:
 *Login page with user details and posts.*
 
 ### Feed Page
-![Feed Page](assets/screenshots/profile.png)
+![Feed Page](screenshots/feed.png)
 *Feed page with user details and posts.*
 
 
