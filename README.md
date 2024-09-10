@@ -68,12 +68,16 @@ Here are some screenshots of the application:
 *Homepage showing the main dashboard.*
 
 ### Profile Page
-![Profile Page](assets/screenshots/profile-page.png)
+![Profile Page](assets/screenshots/profile.png)
 *Profile page with user details and posts.*
 
 ### Image Upload Form
-![Upload Form](assets/screenshots/upload-form.png)
+![Upload Form](assets/screenshots/submit.png)
 *Form for uploading images with captions.*
+
+### Profile Page
+![Profile Page](assets/screenshots/profile.png)
+*Profile page with user details and posts.*
 
 
 ## Disclaimer
