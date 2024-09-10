@@ -76,7 +76,7 @@ Here are some screenshots of the application:
 *Form for uploading images with captions.*
 
 ### Profile Page
-![Profile Page](assets/screenshots/profile.png)
+![Login Page](assets/screenshots/login.png)
 *Profile page with user details and posts.*
 
 
