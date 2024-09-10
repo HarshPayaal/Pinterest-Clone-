@@ -87,12 +87,12 @@ Here are some screenshots of the application:
 ![Database](screenshots/database(Mongodb).png)
 *Feed page with user details and posts.*
 
-### Feed Page
-![Feed Page](screenshots/feed.png)
-*Feed page with user details and posts.*
+### User
+![User](screenshots/user(server).png)
+*user (server) with user details and posts.*
 
-### Feed Page
-![Feed Page](screenshots/feed.png)
+### Post
+![Posts](screenshots/post(server).png)
 *Feed page with user details and posts.*
 
 
