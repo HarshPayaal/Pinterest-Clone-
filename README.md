@@ -83,6 +83,18 @@ Here are some screenshots of the application:
 ![Feed Page](screenshots/feed.png)
 *Feed page with user details and posts.*
 
+### Database
+![Database](screenshots/database(Mongodb).png)
+*Feed page with user details and posts.*
+
+### Feed Page
+![Feed Page](screenshots/feed.png)
+*Feed page with user details and posts.*
+
+### Feed Page
+![Feed Page](screenshots/feed.png)
+*Feed page with user details and posts.*
+
 
 ## Disclaimer
 
