@@ -61,7 +61,20 @@ A clone of Pinterest built using Node.js, Express, MongoDB, and EJS. This projec
 
 ## Screenshots
 
-_Include screenshots of your app to visually showcase its features._
+Here are some screenshots of the application:
+
+### Homepage
+![Homepage](assets/screenshots/registered)
+*Homepage showing the main dashboard.*
+
+### Profile Page
+![Profile Page](assets/screenshots/profile-page.png)
+*Profile page with user details and posts.*
+
+### Image Upload Form
+![Upload Form](assets/screenshots/upload-form.png)
+*Form for uploading images with captions.*
+
 
 ## Disclaimer
 
