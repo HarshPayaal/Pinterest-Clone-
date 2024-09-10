@@ -65,7 +65,7 @@ Here are some screenshots of the application:
 
 ### Homepage
 ![Homepage](screenshots/registered.png)
-*Homepage showing the main dashboard.*
+*Homepage.*
 
 ### Profile Page
 ![Profile Page](screenshots/profile.png)
@@ -77,23 +77,23 @@ Here are some screenshots of the application:
 
 ### Login Page
 ![Login Page](screenshots/login.png)
-*Login page with user details and posts.*
+*Login page with user details.*
 
 ### Feed Page
 ![Feed Page](screenshots/feed.png)
-*Feed page with user details and posts.*
+*Feed page.*
 
 ### Database
 ![Database](screenshots/database(Mongodb).png)
-*Feed page with user details and posts.*
+*Database.*
 
 ### User
 ![User](screenshots/user(server).png)
-*user (server) with user details and posts.*
+*user (server).*
 
 ### Post
 ![Posts](screenshots/post(server).png)
-*post (server) with user details and posts.*
+*post (server).*
 
 
 ## Disclaimer
