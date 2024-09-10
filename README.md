@@ -93,7 +93,7 @@ Here are some screenshots of the application:
 
 ### Post
 ![Posts](screenshots/post(server).png)
-*Feed page with user details and posts.*
+*post (server) with user details and posts.*
 
 
 ## Disclaimer
